@@ -5,6 +5,7 @@ A MySQL-based SQL project analyzing inventory, sales, customers, products, order
 - MySQL Workbench
 
 📊 Dataset Source:
+
 https://www.kaggle.com/datasets/harshadashirin/inventory-mangement-analysis-sql-based-project
 
 🔍 Key Business Questions Answered:
